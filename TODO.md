@@ -7,8 +7,8 @@
 ## memory entry elements
 * memory number (this might be merely a function of position or order)
 * frequency
-* tone mode
-* tone code
+* squelch mode
+* squelch code
 * group number
 * name (fairly certain this is stored in a separate area in the file as they seemed to be all together in one place)
 * repeater offset
